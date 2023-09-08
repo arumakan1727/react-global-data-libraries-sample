@@ -1,0 +1,20 @@
+.A {
+  margin-top: 0.5rem;
+  padding: 1rem;
+  border: 1px solid red;
+  color: red;
+}
+
+.B {
+  margin-top: 0.5rem;
+  padding: 1rem;
+  border: 1px solid blue;
+  color: blue;
+}
+
+.C {
+  margin-top: 0.5rem;
+  padding: 1rem;
+  border: 1px solid green;
+  color :green;
+}
