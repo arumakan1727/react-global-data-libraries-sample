@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const Links = () => {
+  console.log("Rendered: Links");
   return (
     <ul>
       <li>
